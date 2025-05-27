@@ -248,6 +248,6 @@ Motion passed.
 
 Yellow people get fidgets
 
-To kick off Pride month, probably going to do Pride themes. :thumbs-up:
+To kick off Pride month, probably going to do Pride themes. 👍🏻
 
 Motion to adjourn - Nyanza, seconded - Jordan
