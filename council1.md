@@ -12,27 +12,26 @@ If you text, say who you are because I won't know.
 
 Currently printing flyers to post around the house so we can get money to fund events. 
 
-## Donnelle - kitchen manager
+## Donnell - kitchen manager
 
 [string of curses]
 
-2nd summer, been here since fall 23
+2nd summer, been here since fall 23, lead numerous cook shifts, social and head chef at the same time.
 
-lead numerous cook shifts, social and head chef at the same time
-
-if you have questions about the kitchen (what applieances we have, etc)
+If you have questions about the kitchen (what applieances we have, etc)
 
 No time restriction for questions, just ask.
 
-No personal dishes in kitchen
+No personal dishes in kitchen!
 
 CAZkitchenmanager on discord
 
-Food for the summer: for those who are interested in eating in the house, I can make a food budget and we all pay a small fee (weekly basis, etc.) access to CFS, but right now I can only get supplies. If Ipass a budget, I can get essentials.
+Food for the summer: for those who are interested in eating in the house, I can make a food budget and we all pay a small fee (weekly basis, etc.) access to CFS, but right now I can only get supplies. If I pass a budget, I can get essentials.
 
 If there are requests (appliances, food items, etc.) let me know, I can pretty much get whatterver added to the kitchen.
 
 If there's a problem in the kitchen, lmk.
+
 
 [CZ runs through house to retrieve phone and pants for 30 seconds.]
 
@@ -114,11 +113,7 @@ Ella and I are running as a team, first half this week, second next.
 
 Responsibilities: organizing the health cabinet and passing the budget
 
-I'm running because I wanted to make sure we had the basic necessities because that can be really great prevatantive. 
-
-Another resp from the past that I would be willing to do would be workshops and 'zines.
-
-Welcome questions.
+I'm running because I wanted to make sure we had the basic necessities because that can be really great preventative measures. Another responsibility from the past that I would be willing to do would be workshops and 'zines. I welcome questions.
 
 #### annon comments
 
@@ -126,7 +121,7 @@ Welcome questions.
 
 - Toothbrushes. Really helpful. especially with guests.
 
-- Will we be getting BC again?
+- Will we be getting birth control again?
 
 - Can this be contingent on the later motion?
  - Yes, will.
@@ -144,7 +139,7 @@ a - Yeah!
 
 Comment: Having a form where people can submit stuff they want for the cabinet.
 
-### Valentine - Fall HM
+### Valentine - Fall house manager
 
 Looking for co-candidate to run with.
 
@@ -173,39 +168,51 @@ Rationale: “tavi and I want to run together as health managers”
 Current Bylaw: “There is one health manager.” 
 
 q - How will the hour work?
+
 a - Tavi will decline the hour since Tavi is already getting 5
 
+
 q - Is this permanent?
+
 a - No, exception for this summer
 
+
 q - Comment: uncomfortable with anyone doing something without compensation, bad precedent
+
 a - We're doing this because we both want to.
 
+
 q - Comment: as written, not explicitly saying that someone will not be compensated, but later notes in workshift saying that less than 1 hour increments will not be used
+
 a - self-answer
 
+
 q - Comment: same as just having no motion and just helping out
+
 a - Truly, agreed, will see what Tavi thinks
 
+
 q - Comment: I don't think someone should be working two positions, worried about burn out
+
 a - If there's burnout, since there's two, that's something they could work out.
+
 
 Moving on to the next motion, not ready for vote.
 
-Motion to table by (Tavi??). Seconded by Elliot.
+Motion to table by (Tavi??). Seconded by Elliette.
 
 Vote by affirmation:
 Passed.
 
 ## 2 - Workshift Policy
 
-Elliot and Joseph submitted
+Elliette and Joseph submitted
 
-Pots will not be a rotating shift because veryone is doing their own dishes. No cook shift, either. Vacancy policy (if you're gone more than 4 days in a week you only owe 1 horu per day you're here.)
+Pots will not be a rotating shift because veryone is doing their own dishes. No cook shift, either. Vacancy policy (if you're gone more than 4 days in a week you only owe 1 hour per day you're here.)
 
 Everything will be emailed out.
 
-Call to question - Nori, seconded - Emmett
+Call to question - Nori, seconded - Emmet
 
 Motion passed. will be back on the agenda next week for the final vote.
 
@@ -217,17 +224,19 @@ c - The pin boards were super helpful.
 
 q - How do we know that 2/2 agrees?
 
+
 Motion to adjourn - Nori
 
 CZ - Not there yet. Soon.
 
-Call to question - Nori
 
-c - The CZ comes out is everyone who can just going to SF pride
+c - The CZ Comes Out event is everyone who can just going to SF pride
+
 
 q - What's greenlight? 
 
 a - Greeeeeeeeeen
+
 
 Call to question - , seconded - Nori
 
