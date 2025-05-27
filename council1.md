@@ -10,7 +10,7 @@ If you text, say who you are because I won't know.
 
 ## Wintyr - social manager (1/2)
 
-Currently printing buyers club stuff to post around the house so we can get money to fund  events. Don't write Buyers club stuff?
+Currently printing flyers to post around the house so we can get money to fund events. 
 
 ## Donnelle - kitchen manager
 
