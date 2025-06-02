@@ -5,19 +5,16 @@ Called to order at 17:11
  - Kitchen manager: Donnell Wright (he/him)
  - Mail manager: Nyanza Guzman (she/they)
  - Board rep: Tavi Oehmke (she/her)
- - Pro temporum secretary: Jordan Ashley ()
- - Vivi
+ - Pro tempore secretary: Jordan Ashley (any)
+ - House manager: Vivi Perez (she/her)
 
 # Agenda
 
-NMO stuff
+Food Manager elections temp check
 
-FM elections
- - Temp check
+## NMO stuff
 
-HM and HabCoord?
-
-Private thread on Discord, @ to add, no responses
+Private thread on Discord, @ to add, no responses. Everyone hates CZ </3 :`)
 
 NMO either Tues/Thurs, W/F, or weekend. Donnell leaving later in the week so Tues/Thur.
 
@@ -33,10 +30,10 @@ NMO either Tues/Thurs, W/F, or weekend. Donnell leaving later in the week so Tue
 
 2.4 Lauren's BDay - Non-social party
 
-2.5 Hot water dispenser emergency motion - accounts to be reset, spend the money now because budget to be reset. Max 2 year rollover, so you can't save for more than 2 years (Tavi).
+2.5 Hot water dispenser ==emergency motion== - accounts to be reset, spend the money now because budget to be reset. Max 2 year rollover, so you can't save for more than 2 years (Tavi).
 
 # Announcements
 
-Watch party on Thursday for summer board meeting
+Watch party on Thursday for first summer board meeting
 
 Adjourned 17:47
