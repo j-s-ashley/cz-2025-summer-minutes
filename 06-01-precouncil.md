@@ -1,3 +1,12 @@
+# TL;DR
+
+To be presented at council:
+ - NMO date options
+ - workshift policy final vote
+ - bylaw ammendment to let Ella/Tavi both do health
+ - Compensate Nyanza for work done
+ - Address unsafe hot water dispenser
+
 Called to order at 17:11
 
 # Attendence
