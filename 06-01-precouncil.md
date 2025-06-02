@@ -1,0 +1,42 @@
+Called to order at 17:11
+
+# Attendence
+ - President: Cristian "CZ" Zamora (she/they)
+ - Kitchen manager: Donnell Wright (he/him)
+ - Mail manager: Nyanza Guzman (she/they)
+ - Board rep: Tavi Oehmke (she/her)
+ - Pro temporum secretary: Jordan Ashley ()
+ - Vivi
+
+# Agenda
+
+NMO stuff
+
+FM elections
+ - Temp check
+
+HM and HabCoord?
+
+Private thread on Discord, @ to add, no responses
+
+NMO either Tues/Thurs, W/F, or weekend. Donnell leaving later in the week so Tues/Thur.
+
+20 votes out of 30/40, congrats to HM and HabCoord!
+
+## 4 motions on the table
+
+2.1 Workshift policy
+
+2.2 Ella wanted to readd the bylaw amendment
+
+2.3 Nyanza compensation - is someone able to speak to the impact on the budget? Tavi to help CZ access budget spreadsheet. 
+
+2.4 Lauren's BDay - Non-social party
+
+2.5 Hot water dispenser emergency motion - accounts to be reset, spend the money now because budget to be reset. Max 2 year rollover, so you can't save for more than 2 years (Tavi).
+
+# Announcements
+
+Watch party on Thursday for summer board meeting
+
+Adjourned 17:47
