@@ -7,6 +7,8 @@ To be presented at council:
  - Compensate Nyanza for work done
  - Address unsafe hot water dispenser
 
+---
+
 Called to order at 17:11
 
 # Attendence
@@ -44,6 +46,8 @@ NMO either Tues/Thurs, W/F, or weekend. Donnell leaving later in the week so Tue
 # Announcements
 
 Watch party on Thursday for first summer board meeting
+
+---
 
 Adjourned 17:47
 
