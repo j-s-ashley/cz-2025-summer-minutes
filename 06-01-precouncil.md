@@ -30,7 +30,7 @@ NMO either Tues/Thurs, W/F, or weekend. Donnell leaving later in the week so Tue
 
 2.4 Lauren's BDay - Non-social party
 
-2.5 Hot water dispenser ==emergency motion== - accounts to be reset, spend the money now because budget to be reset. Max 2 year rollover, so you can't save for more than 2 years (Tavi).
+2.5 Hot water dispenser <mark>emergency motion</mark> - accounts to be reset, spend the money now because budget to be reset. Max 2 year rollover, so you can't save for more than 2 years (Tavi).
 
 # Announcements
 
