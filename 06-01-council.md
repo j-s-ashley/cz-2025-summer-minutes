@@ -118,8 +118,9 @@ Newly elected Emmett for HabCoord and Vivi for HM! Congrats!!
 
 ### Summer 
 
-#### Health - Ella and Tavi, 
-	Ella and I aare running together, menstral and contraceptions, health/m-health workshops, first aid training if available this summer, or we would do solo and ask for reimbursed. CPR certification listings. Running jointly because we're both enthusiastic. Recognition is important, so having both of us listed is beneficial. Limits known, recognize concerns about burnout, but I can do this.
+#### Health - Ella and Tavi
+
+Ella and I are running together, menstral and contraceptions, health/m-health workshops, first aid training if available this summer, or we would do solo and ask for reimbursed. CPR certification listings. Running jointly because we're both enthusiastic. Recognition is important, so having both of us listed is beneficial. Limits known, recognize concerns about burnout, but I can do this.
 
 ##### Anon comments
 
@@ -130,6 +131,8 @@ Dedication appreciated. It's useful to have more people looking for resources an
 Plans for organizing?
 
 Yes. Drawers or individual containers rather than piles.
+
+---
 
 #### Secretary - Jordan
 
