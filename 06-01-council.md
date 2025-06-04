@@ -62,7 +62,7 @@ Donnell's real pronouns are finally listed in Discord.
 
 Locked in for 7 on Tues/Thurs.
 
-Temp check: Food Manager Election
+## Temp check: Food Manager Election
 
 Donnell's plan until Lena gets back on the 20th. So, he will propose a small fee to fund staples.
 
