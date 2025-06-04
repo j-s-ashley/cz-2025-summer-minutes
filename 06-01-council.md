@@ -241,7 +241,9 @@ Passes: 12 yes, 0 no, 0 abstain
 # Themes for Council
 
 5/25 - Becoming One with the House(Wear Yellow) 
+
 6/1 - Pride Practice Run! - Dress like we’re going to Pride!
+
 6/8 - <mark>Gay Disco</mark>
 
 Adjourned at 19:03
