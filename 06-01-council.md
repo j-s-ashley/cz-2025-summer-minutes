@@ -200,7 +200,7 @@ By affirmation: passed
 
 Compensate Nyanza as Mail Manager at $22/hr for 3 hrs/week for 12 weeks. Total: $792 for the Semester submitted by Nyanza Guzman 
 
-*Rationale*: “Hi, I am motioning to get compensated for my work as a mail manager. I would like to be compensated for the 3 hours I do for mail at the workshift rate, since my work shift is covered by my job at the BSC. I had ran for mail manager, unsure if I would get the job, but thankfully was chosen for both. The compensation would be greatly appreciated to go towards any financial needs I have.”
+**Rationale**: “Hi, I am motioning to get compensated for my work as a mail manager. I would like to be compensated for the 3 hours I do for mail at the workshift rate, since my work shift is covered by my job at the BSC. I had ran for mail manager, unsure if I would get the job, but thankfully was chosen for both. The compensation would be greatly appreciated to go towards any financial needs I have.”
 
 Tavi: When we're looking at workshift requirements, we look at central-level stuff first, then house-level.
 
@@ -218,7 +218,7 @@ Passes: 7 yes, 1 no, 1 abstain
 
 Throwing a birthday party for and old czar, Lauren, on June 4th submitted by Sofia Rasner
 
-Rationale:
+**Rationale**:
 
 Motion rescinded, scheduling conflict.
 
@@ -226,7 +226,7 @@ Motion rescinded, scheduling conflict.
 
 Spend $750-850 on new hot water dispenser from furniture budget, submitted by Donnell Wright 
 
-Rationale: Old one is a hab hazard and does not always refill itself. “Old one sucks -Tavi.” Anton(CO Legend) said we can get it - Donnell
+**Rationale**: Old one is a hab hazard and does not always refill itself. “Old one sucks -Tavi.” Anton(CO Legend) said we can get it - Donnell
 
 Comment: Jordan: If we don't replace it, we could be penalized by Hab.
 
@@ -235,6 +235,8 @@ Call the question: David, Second: Jordan.
 Big money, needs two passes to go.
 
 Passes: 12 yes, 0 no, 0 abstain
+
+(1/2 passes)
 
 # Themes for Council
 
