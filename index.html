@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Markdown Page</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: url('background.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    .container {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 2rem;
+      max-width: 900px;
+      margin: 2rem auto;
+      border-radius: 10px;
+    }
+    img.standalone {
+      display: block;
+      max-width: 300px;
+      margin: 2rem auto;
+      border: 3px solid #fff;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container" id="section1">
+    <h2>Section 1</h2>
+    <div id="content1">Loading...</div>
+  </div>
+
+  <img class="standalone" src="image1.jpg" alt="Image 1">
+  <img class="standalone" src="image2.jpg" alt="Image 2">
+
+  <div class="container" id="section2">
+    <h2>Section 2</h2>
+    <div id="content2">Loading...</div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    async function loadMarkdown(url, containerId) {
+      try {
+        const response = await fetch(url);
+        const mdText = await response.text();
+        document.getElementById(containerId).innerHTML = marked.parse(mdText);
+      } catch (error) {
+        document.getElementById(containerId).textContent = "Failed to load content.";
+        console.error(error);
+      }
+    }
+
+    // Replace these URLs with your actual GitHub raw markdown file URLs
+    loadMarkdown('https://raw.githubusercontent.com/j-s-ashley/repo/main/council-this-week.md', 'content1');
+    loadMarkdown('https://raw.githubusercontent.com/j-s-ashley/repo/main/precouncil-this-week.md', 'content2');
+  </script>
+</body>
+</html>
