@@ -1,0 +1,35 @@
+name: Publish to GitHub Wiki
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wiki/**'
+      - '.github/workflows/publish-wiki.yml'
+permissions:
+  contents: write
+
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout Wiki Repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki
+
+      - name: Copy markdown to wiki
+        run: |
+          rsync -av --delete source/wiki/ wiki/
+      - name: Commit & Push
+        run: |
+          cd wiki
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto‑sync wiki from commit ${{ github.sha }}"
+          git push
