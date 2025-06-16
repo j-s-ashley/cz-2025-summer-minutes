@@ -1,3 +1,7 @@
+# THEME: GAY DISCO HANGOVER
+
+---
+
 In attendence:
  - Tavi
  - Vivi
