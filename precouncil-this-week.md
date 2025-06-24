@@ -7,9 +7,11 @@ Called to order at 5:15
 
 # Emergency motions
 
- - health fee $
+ - health fee $15
  - food fee $25
  - network fee 
+
+These fees, if they're going to be implemented, must be passed and reported by Wednesday, June 25th.
 
 # Community Agreements - Fireside chats
 
