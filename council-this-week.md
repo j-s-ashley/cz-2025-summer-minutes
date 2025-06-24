@@ -143,7 +143,7 @@ Called by David, seconded by Oz.
 
 Vote by acclaimation, passed
 
-## 5.2 - Community Agreements
+## 5.4 - Community Agreements
 
 After a few Fireside Chats, this is the current list of community agreements we ended up on. However, a good portion of the house(~50%) has yet to attend/ give input. Do we pass these now and amend next weekend, or do we wait entirely until more input is given? submitted by Cristian(CZ) Zamora 
 
