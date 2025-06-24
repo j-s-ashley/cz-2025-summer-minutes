@@ -29,6 +29,19 @@
   </style>
 </head>
 <body>
+  <div class="container" id="archives">
+    <h2>Archived Notes</h2>
+    <label for="archive-date">Select a date:</label>
+    <input type="date" id="archive-date" />
+  
+    <div style="margin-top: 1rem;">
+      <button onclick="loadArchive('precouncil')">Pre-Council</button>
+      <button onclick="loadArchive('council')">Council</button>
+    </div>
+  
+    <div id="archive-content" style="margin-top: 2rem;">Choose a date and type above to view archive.</div>
+  </div>
+
   <div class="container" id="section1">
     <h2>This Week's Council Minutes</h2>
     <div id="content1">Loading...</div>
@@ -43,6 +56,21 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
+    function loadArchive(type) {
+      const dateInput = document.getElementById('archive-date').value;
+      if (!dateInput) {
+        alert("Please select a date.");
+        return;
+      }
+
+      const [year, month, day] = dateInput.split("-");
+      const filename = `${month}-${day}-${type}.md`;
+      const url = `https://raw.githubusercontent.com/j-s-ashley/cz-2025-summer-minutes/main/archives/${filename}`;
+    
+      loadMarkdown(url, 'archive-content');
+    }
+
+
     async function loadMarkdown(url, containerId) {
       try {
         const response = await fetch(url);
