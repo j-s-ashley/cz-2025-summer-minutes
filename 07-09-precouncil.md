@@ -18,8 +18,6 @@ Called to order 17:10
 
 # Agenda
 
-####PNG we gotta get done on Sunday.
-
 Spread across 13th and 20th.
 
 Proxy votes are a thing.
