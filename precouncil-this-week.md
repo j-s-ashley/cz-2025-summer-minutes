@@ -67,13 +67,6 @@ Felony Offense: If the false alarm results in great bodily injury or death, the 
 
 ---
 
-Melaph came out to the courtyard "yelling at people" at 1:30 a.m. (30 minutes after the party had been scheduled to end, 30 minutes before the start of official quiet hours as passed in July 9th council).
-
-Many party attendees were disturbed by this, some were angered, but the incident ended peacably with speakers being moved inside the Red Room to minimize courtyard noise.
-
-Some time after 2 a.m., Melaph came into the Red Room and "tried to rip cables out of the speakers" (the speakers seemed unaffected), before approaching Vivi.
-
-At 2:48 a.m., Izzy sent a message to the house-general channel of the Discord asking people to respect noise levels. 
 
 Around 3:30 a.m., a fire alarm was pulled on the 100s floor.
 
