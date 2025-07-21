@@ -55,7 +55,7 @@ Went well, lots of new Czars present.
 
 ## Fire alarm incident
 
-Fire alarm was pulled on the 100s.
+~~Fire alarm was pulled on the 100s.~~
 
 ---
 
@@ -67,13 +67,13 @@ Felony Offense: If the false alarm results in great bodily injury or death, the 
 
 ---
 
-A CZ member came out to the courtyard "yelling at people" at 1:30 a.m. (30 minutes after the party had been scheduled to end, 30 minutes before the start of official quiet hours as passed in July 9th council). Party attendees quoted the CZ member as having threatened to call the police. Many party attendees were disturbed by this, some were angered, but the incident ended peacably with speakers being moved inside the Red Room to minimize courtyard noise.
+*A CZ member came out to the courtyard "yelling at people" at 1:30 a.m. (30 minutes after the party had been scheduled to end, 30 minutes before the start of official quiet hours as passed in July 9th council). Party attendees quoted the CZ member as having threatened to call the police. Many party attendees were disturbed by this, some were angered, but the incident ended peacably with speakers being moved inside the Red Room to minimize courtyard noise.*
 
-Around 2:30 a.m., the CZ member came into the Red Room and "tried to rip cables out of the speakers" (the speakers seemed unaffected), before approaching one of the managers present. A brief verbal exchange occured, then the CZ member left.
+*Around 2:30 a.m., the CZ member came into the Red Room and "tried to rip cables out of the speakers" (the speakers seemed unaffected), before approaching one of the managers present. A brief verbal exchange occured, then the CZ member left.*
 
-At 2:48 a.m., Izzy sent a message to the house-general channel of the Discord asking people to respect noise levels. 
+*At 2:48 a.m., Izzy sent a message to the house-general channel of the Discord asking people to respect noise levels.*
 
-Around 3:30 a.m., a fire alarm was pulled on the 100s floor.
+*Around 3:30 a.m., a fire alarm was pulled on the 100s floor.*
 
 # The Kyle Email
 
@@ -99,6 +99,6 @@ Section 11.D.2 cited
 
 **Secretary note**
 
-I reserve the right to make clarifying edits after notes are published. Such edits will be easily identifiable with old text struck-through (~~example old text~~) and new text following in italics (*example new text*).
+I reserve the right to make clarifying edits after notes are published. Such edits will be easily identifiable with old text struck-through (~~example old text~~) and new text following in italics (*example new text*). The only exception to this formatting rule is the redaction of inadvertantly-included personally identifying information, which will go unmarked.
 
 ---
