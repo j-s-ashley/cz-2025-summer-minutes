@@ -9,7 +9,7 @@ In attendence:
 
 ## Motion 9.1
 
-2nd Week Vote: PNG (⅔ over 2 Councils): Motion to PNG Fionn Rowntree-Roberts submitted by Cass  
+2nd Week Vote: PNG (⅔ over 2 Councils): Motion to PNG Fionn Rowntree-Roberts submitted by ...
 
 Rationale: This person has caused a czar to feel scared in the house. 
 
