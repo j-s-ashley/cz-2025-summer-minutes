@@ -22,10 +22,6 @@ Rationale: This person has caused a czar to feel scared in the house.
 
 Rationale: Quiet hours have long been dynamic, being set during the Fireside Chat/Community Agreement Process. This Amendment brings this Section of the Bylaws in alignment with current practice. I left the definition for excessive noise in there, but feel free to offer suggestions!
 
-# Incident report
-
-To be filed regarding member threatening to call to police.
-
 # PSA
 
 If you see the doors propped open after 4 p.m., close the doors
